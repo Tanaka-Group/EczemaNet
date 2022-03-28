@@ -21,7 +21,7 @@ If you use EczemaNet in your research, please cite our MIML '20 paper:
 
 This open source version of EczemaNet is licensed under the GPLv3 license, which can be seen in the [LICENSE](/LICENSE) file.
 
-A **closed source** version of EczemaNet is also available without the restrictions of the GPLv3 license with a software usage agreement from Imperial College London. For more information, please contact Vaibhav Sharma <v.sharma@imperial.ac.uk>.
+A **closed source** version of EczemaNet is also available without the restrictions of the GPLv3 license with a software usage agreement from Imperial College London. For more information, please contact Diana Yin <d.yin@imperial.ac.uk>.
 
 ``` text
 EczemaNet: Automating Detection and Severity Assessment of Atopic Dermatitis
